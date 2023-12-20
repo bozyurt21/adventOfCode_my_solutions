@@ -1,0 +1,48 @@
+#1702885661
+ls
+#1702885685
+adventOfCode_my_solutions
+#1702885689
+cd adventOfCode_my_solutions
+#1702885691
+ls
+#1702885701
+git status
+#1702885714
+git merge 2023 main
+#1702885721
+git branch -z
+#1702885730
+git branch 
+#1702885736
+git remove -v
+#1702885742
+git remote
+#1702885795
+cd day2
+#1702885796
+ls
+#1702885808
+git pull
+#1702885826
+git pull origin 2023
+#1702885835
+ls
+#1702885845
+git push origin 2023
+#1702885867
+git satatus
+#1702885871
+git status
+#1702885921
+git merge 2023 main
+#1702886021
+git switch main
+#1702886029
+git merge main 2023
+#1702886040
+git push origin main
+#1702886064
+git branch -D 2023
+#1702886080
+git push origin main
